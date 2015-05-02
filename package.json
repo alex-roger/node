@@ -18,5 +18,9 @@
   "homepage": "https://github.com/alex-roger/node",
   "dependencies": {
     "once": "^1.3.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tutorial"
+  ]
 }
